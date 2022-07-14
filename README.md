@@ -18,8 +18,8 @@ expo build:android
 
 ## Project
 
-<img src="src/assets/Screenshot_1.jpeg" width="100%" alt="Screenshot 1"/>
-<img src="src/assets/Screenshot_2.jpeg" width="100%" alt="Screenshot 2"/>
+<img src="src/assets/Screenshot_1.jpeg" width="50%" alt="Screenshot 1"/>
+<img src="src/assets/Screenshot_2.jpeg" width="50%" alt="Screenshot 2"/>
 
 ## technology and libraries used
 
