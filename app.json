@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "allhamdullillahtime",
+    "slug": "allhamdullillahtime",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.example.allhamdullillahtime"
+    }
+  }
+}
